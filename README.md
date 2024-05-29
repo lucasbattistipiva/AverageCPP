@@ -6,7 +6,7 @@ This is a simple C++ program that calculates the average of a series of numbers 
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/average-calculator.git
+    git clone https://github.com/lucasbattistipiva/average-calculator.git
     ```
 2. Navigate to the project directory:
     ```bash
